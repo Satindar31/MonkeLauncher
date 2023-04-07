@@ -2,6 +2,7 @@ const loginOptionsCancelContainer = document.getElementById('loginOptionCancelCo
 const loginOptionMicrosoft = document.getElementById('loginOptionMicrosoft')
 const loginOptionMojang = document.getElementById('loginOptionMojang')
 const loginOptionsCancelButton = document.getElementById('loginOptionCancelButton')
+const loginOptionOffline = document.getElementById('loginOptionOffline')
 
 let loginOptionsCancellable = false
 

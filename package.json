@@ -1,13 +1,13 @@
 {
-  "name": "helioslauncher",
-  "version": "2.0.3",
-  "productName": "Helios Launcher",
+  "name": "monke-launcher",
+  "version": "0.1.0",
+  "productName": "Monke Launcher",
   "description": "Modded Minecraft Launcher",
-  "author": "Daniel Scalzi (https://github.com/dscalzi/)",
+  "author": "Satindar31",
   "license": "UNLICENSED",
-  "homepage": "https://github.com/dscalzi/HeliosLauncher",
+  "homepage": "https://github.com/satindar31/MonkeLauncher",
   "bugs": {
-    "url": "https://github.com/dscalzi/HeliosLauncher/issues"
+    "url": "https://github.com/satindar31/MonkeLauncher/issues"
   },
   "private": true,
   "main": "index.js",
